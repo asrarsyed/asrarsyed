@@ -25,6 +25,7 @@
 </p>
 -->
 
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
 <div align="center" style="inline-block"> 
@@ -34,16 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,stackoverflow,unity,dotnet,visualstudio,neovim)](https://skillicons.dev)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asrarsyed/asrarsyed/output/grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asrarsyed/asrarsyed/output/grid-snake.svg">
-    <img alt="github contribution animation" src="https://raw.githubusercontent.com/asrarsyed/asrarsyed/output/grid-snake.svg">
-  </picture>
-</div>
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
@@ -53,6 +45,18 @@
 |:-------------------------:|:-------------------------:| 
 
 </div>
+
+<!--
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asrarsyed/asrarsyed/output/grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asrarsyed/asrarsyed/output/grid-snake.svg">
+    <img alt="github contribution animation" src="https://raw.githubusercontent.com/asrarsyed/asrarsyed/output/grid-snake.svg">
+  </picture>
+</div>
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
