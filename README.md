@@ -1,14 +1,14 @@
 A backend-focused developer learning to build things that actually work. I'm working across various projects to find my niche. Lately I've been tinkering with Unix configs, learning cybersecurity concerns and exploring deep learning when I'm not debugging.
 
-Reach out to me at 01asrarsyed[at]gmail[dot]com if you have any questions/suggestions.
+Reach out to me at 01asrarsyed[at]gmail[dot]com if you have any questions/comments/suggestions.
 
 Work:
-- **Software Engineer Intern @ Resilience, Inc:** Shipped features for company websites and apps using WordPress & WooCommerce
+- **Software Engineer Intern @ Resilience, Inc:** Shipped features for edu websites/apps using WordPress & WooCommerce
 - **Product Design Intern @ CirrusLabs:** Designed database architecture and workflows for a tutoring platform
 
 Projects:
-- **[Capstone Design](link):** Designing & building a collaborative student platform for my capstone project.
-- **[dotFiles](link):** My personalized Unix config setup for efficient shell workflows and development environments.
+- **[Capstone Design](https://github.com/mtaha435/StudyBuddyApp):** Designing & building a collaborative student platform for my capstone project.
+- **[dotFiles](https://github.com/asrarsyed/dotfiles):** My personalized Unix config setup for efficient shell workflows and development environments.
 
 Tech Stack:
 - **Languages:** Python, Java, JavaScript, Bash
