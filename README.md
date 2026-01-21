@@ -2,18 +2,18 @@ A backend-focused developer learning to build things that actually work. I'm wor
 
 Reach out to me at 01asrarsyed[at]gmail[dot]com if you have any questions/comments/suggestions.
 
-Work:
+**Work:**
 - **Software Engineer Intern @ Resilience, Inc:** Shipped features for edu websites/apps using WordPress & WooCommerce
 - **Product Design Intern @ CirrusLabs:** Designed database architecture and workflows for a tutoring platform
 
-Projects:
+**Projects:**
 - **[Capstone Design](https://github.com/mtaha435/StudyBuddyApp):** Designing & building a collaborative student platform for my capstone project.
 - **[dotFiles](https://github.com/asrarsyed/dotfiles):** My personalized Unix config setup for efficient shell workflows and development environments.
 
-Tech Stack:
-- **Languages:** Python, Java, JavaScript, Bash
-- **Frontend:** React, React Native, HTML/CSS, Tailwind
-- **Backend:** Node.js, Express, MongoDB, FastAPI
+**Tech Stack:**
+- **Languages:** JavaScript, Python, Java, Bash
+- **Frontend:** React (web), React Native (mobile), HTML/CSS, Tailwind
+- **Backend:** Node.js/Express (JavaScript), FastAPI (Python), MongoDB
 
 <br>
 
@@ -73,10 +73,10 @@ Tech Stack:
 <div align=center> 
 
 <a href="https://github.com/asrarsyed/asrarsyed">
-  <img src="https://stats.danshu.co/?username=asrarsyed&hide_title=true&hide_rank=true&hide_border=true&show_icons=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=b4befe&line_height=25" width="40%"/>
+  <img src="https://stats.danshu.co/?username=asrarsyed&hide_title=true&hide_rank=true&hide_border=true&show_icons=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=b4befe&line_height=25" width="36%"/>
 </a>
 <a href="https://github.com/asrarsyed/asrarsyed">
-  <img src="https://stats.danshu.co/top-langs/?username=asrarsyed&hide_title=true&hide_border=true&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=b4befe&line_height=25" width="40.5%"/>
+  <img src="https://stats.danshu.co/top-langs/?username=asrarsyed&hide_title=true&hide_border=true&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=b4befe&line_height=25" width="36.5%"/>
 </a>
 
 </div>
