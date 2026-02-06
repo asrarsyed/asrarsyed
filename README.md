@@ -1,8 +1,8 @@
 A backend-focused developer learning to build things that actually work. I'm working across various projects to find my niche. Lately I've been tinkering with Unix configs, learning cybersecurity concerns and exploring deep learning when I'm not debugging.
 
-**Previously:** Software Engineer Intern @ Resilience, Inc: Shipped WordPress/WooCommerce features for live .edu platforms
+> **Previously:** Software Engineer Intern @ Resilience, Inc: Shipped WordPress/WooCommerce features for live .edu platforms.
 
-**Contact:** Reach out to me at 01asrarsyed[at]gmail[dot]com if you have any questions/comments/suggestions.
+> **Contact:** Reach out to me at 01asrarsyed[at]gmail[dot]com if you have any questions/comments/suggestions.
 
 **Projects:**
 - **[Capstone Design](https://github.com/mtaha435/StudyBuddyApp):** Designing & building a collaborative student platform for my capstone project.
