@@ -74,7 +74,7 @@ A backend-focused developer learning to build things that actually work. I'm wor
   <img src="https://stats.danshu.co/?username=asrarsyed&hide_title=true&hide_rank=true&hide_border=true&show_icons=true&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=b4befe&line_height=25" width="36%"/>
 </a>
 <a href="https://github.com/asrarsyed/asrarsyed">
-  <img src="https://stats.danshu.co/top-langs/?username=asrarsyed&hide_title=true&hide_border=true&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=b4befe&line_height=25" width="36.5%"/>
+  <img src="https://stats.danshu.co/top-langs/?username=asrarsyed&hide_title=true&hide_border=true&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&title_color=1E1E2E&text_color=1E1E2E&icon_color=1E1E2E&bg_color=b4befe&line_height=25&hide=jupyter%20notebook" width="36.5%"/>
 </a>
 
 </div>
