@@ -5,7 +5,7 @@ A backend-focused developer learning to build things that actually work. I'm wor
 > **Contact:** Reach out to me at 01asrarsyed[at]gmail[dot]com if you have any questions/comments/suggestions.
 
 **Projects:**
-- **[Capstone Design](https://github.com/mtaha435/StudyBuddyApp):** Designing & building a collaborative student platform for my capstone project.
+- **[Capstone Design](https://github.com/studybuddycapstone/StudyBuddyApp):** Designing & building a collaborative student platform for my capstone project.
 - **[dotFiles](https://github.com/asrarsyed/dotfiles):** My personalized Unix config setup for efficient shell workflows and development environments.
 
 **Tech Stack:**
